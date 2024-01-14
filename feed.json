@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "~$ cd /Home/matrixresearch.github.io",
+    "description": "",
+    "home_page_url": "https://matrixresearch.github.io",
+    "feed_url": "https://matrixresearch.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "0xYc0d0ne"
+    },
+    "items": [
+        {
+            "id": "https://matrixresearch.github.io/about-us.html",
+            "url": "https://matrixresearch.github.io/about-us.html",
+            "title": "About Us",
+            "summary": "👋 Hello, Welcome to The Matrix Research Foundation info 🌐 - Coding/Artificial Intelligence Research and Development, Currently training Myself to become a Full Stack Developer and Software Dev and looking into web development 🔔 Any questions or need to get in contact with us? You&hellip;",
+            "content_html": "<figure class=\"post__video\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matrixresearch.github.io/media/posts/1/image01.jpeg\" alt=\"\" width=\"3072\" height=\"2048\" sizes=\"100vw\" srcset=\"https://matrixresearch.github.io/media/posts/1/responsive/image01-xs.jpeg 300w ,https://matrixresearch.github.io/media/posts/1/responsive/image01-sm.jpeg 480w ,https://matrixresearch.github.io/media/posts/1/responsive/image01-md.jpeg 768w ,https://matrixresearch.github.io/media/posts/1/responsive/image01-lg.jpeg 1024w ,https://matrixresearch.github.io/media/posts/1/responsive/image01-xl.jpeg 1360w ,https://matrixresearch.github.io/media/posts/1/responsive/image01-2xl.jpeg 1600w\"></figure>👋 Hello, Welcome to The Matrix Research Foundation</figure>\n<p>info 🌐 - Coding/Artificial Intelligence Research and Development, Currently training Myself to become a Full Stack Developer and Software Dev and looking into web development</p>\n<p>                 🔔 Any questions or need to get in contact with us?</p>\n<p>     You can contact us via Email at : <a href=\"mailto:matrixresearchcollective@matrixresearch.dev\">matrixresearchcollective@matrixresearch.dev  </a></p>\n<p>                                            or if you prefer more anonymous~ communication via PGP:                                                                                                                                                                                                                                                   0xy@proxiedmail.com</p>\n<p>( if you dont contact me via PGP encryption i will not respond to any emails on this specific handle , dont know how to use pgp? then use <a href=\"https://mailvelope.com/en/\">https://mailvelope.com/en/</a>  or google how to send/decrypt pgp messages and get back to me via my secure handle) </p>\n<p> </p>\n<p>                  also see my other projects at :  <a href=\"https://github.com/0xYc0d0ne\">https://github.com/0xYc0d0ne</a></p>\n<p>                                              huggingface :  <a href=\"https://huggingface.co/MatrixResearch\">https://huggingface.co/MatrixResearch</a></p>\n<p>                                                      other contacts : 💻 Discord – rizzzilla</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "0xYc0d0ne"
+            },
+            "tags": [
+                   "About"
+            ],
+            "date_published": "2023-12-05T21:10:40+08:00",
+            "date_modified": "2024-01-14T18:32:56+08:00"
+        }
+    ]
+}
